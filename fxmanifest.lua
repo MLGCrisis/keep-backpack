@@ -32,7 +32,7 @@ server_script {
 
 dependencies {
      'oxmysql',
-     --'keep-harmony'
+     'keep-harmony'
 }
 
 lua54 'yes'
